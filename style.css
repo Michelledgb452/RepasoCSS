@@ -1,0 +1,33 @@
+/*
+#251B37
+#372948
+#FFCACA
+#FFECEF
+*/
+.text-light{
+    color: #FFCACA ;
+}
+.bg-primary{
+    background-color: #251B37 ;
+}
+.text-center{
+    text-align: center;
+}
+.text-right{
+    text-align: right;
+}
+.text-secondary{
+    color:#fcbaba;
+}
+.width-100{
+    width: 100px;
+}
+.bg-info{
+    background-color: #453368;
+}
+.text-primary{
+    color: #FFECEF;
+}
+.text-white{
+    color:#FFECEF;
+}
